@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "trying out annotation feature ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/1e5f83addb00d09494efbc67ab64ccce37ce6e1caf2f12dc26740c4a734ebcbf",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2509.0234375,6448.701171875,1554.438720703125,919.6845703125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b118aac0-27db-478d-9831-9a4b93fc2d4b"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Insert Annotation ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/6d38982b500e54d6c12618cf956c9f4e8a4c7346734d29a86b072e5276ccf032",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:327.2889709472656,2250.255615234375,336.2761535644531,200.186279296875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c7f7c25c-c4fe-44b4-81d6-7065bea852af"
+  }
+]
