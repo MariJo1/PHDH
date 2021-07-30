@@ -3,7 +3,7 @@
 <param ve-config 
        title="Test Peanut/Groundnut/Goober/Gouber/Pindar/Monkeynut"
        author="Maria Job"
-       banner="https://commons.wikimedia.org/wiki/File:Arachis_hypogaea_006.JPG" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Arachis_hypogaea_006.JPG/1280px-Arachis_hypogaea_006.JPG" 
        layout="vertical">
        
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
