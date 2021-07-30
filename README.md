@@ -5,9 +5,7 @@
        author="Maria Job"
        banner="https://commons.wikimedia.org/wiki/File:Arachis_hypogaea_006.JPG" 
        layout="vertical">
-(Chinese: 第一次鴉片戰爭; pinyin: Dìyīcì Yāpiàn Zhànzhēng), also known as the Opium War or the Anglo-Chinese War, was a series of military engagements fought between Britain and the Qing dynasty of China. The immediate issue was Chinese official seizure of opium stocks at Canton to stop the banned opium trade, and threatening the death penalty for future offenders. The British government insisted on the principles of free trade, equal diplomatic recognition among nations, and backed the merchants' demands. The British navy defeated the Chinese using technologically superior ships and weapons, and the British then imposed a treaty that granted territory to Britain and opened trade with China.
-<param ve-map>
-In the 18th century the demand for Chinese luxury goods (particularly silk, porcelain, and tea) created a trade imbalance between China and Britain. European silver flowed into China through the Canton System, which confined incoming foreign trade to the southern port city of Canton. To counter this imbalance, the British East India Company began to grow opium in Bengal and allowed private British merchants to sell opium to Chinese smugglers for illegal sale in China. The influx of narcotics reversed the Chinese trade surplus, drained the economy of silver, and increased the numbers of opium addicts inside the country, outcomes that seriously worried Chinese officials.
+       
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
@@ -18,7 +16,9 @@ In the 18th century the demand for Chinese luxury goods (particularly silk, porc
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+(Chinese: 第一次鴉片戰爭; pinyin: Dìyīcì Yāpiàn Zhànzhēng), also known as the Opium War or the Anglo-Chinese War, was a series of military engagements fought between Britain and the Qing dynasty of China. The immediate issue was Chinese official seizure of opium stocks at Canton to stop the banned opium trade, and threatening the death penalty for future offenders. The British government insisted on the principles of free trade, equal diplomatic recognition among nations, and backed the merchants' demands. The British navy defeated the Chinese using technologically superior ships and weapons, and the British then imposed a treaty that granted territory to Britain and opened trade with China.
+<param ve-map>
+In the 18th century the demand for Chinese luxury goods (particularly silk, porcelain, and tea) created a trade imbalance between China and Britain. European silver flowed into China through the Canton System, which confined incoming foreign trade to the southern port city of Canton. To counter this imbalance, the British East India Company began to grow opium in Bengal and allowed private British merchants to sell opium to Chinese smugglers for illegal sale in China. The influx of narcotics reversed the Chinese trade surplus, drained the economy of silver, and increased the numbers of opium addicts inside the country, outcomes that seriously worried Chinese officials.This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
