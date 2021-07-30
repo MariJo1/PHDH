@@ -33,7 +33,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/5/5e/Common_lionfish_at_Shaab_El_Erg_reef.JPG">
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1b/A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg">
 
 ## Map
 
