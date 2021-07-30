@@ -50,8 +50,8 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 ## Multiple viewers
 adding some content here 
-<param ve-plant-specimen jpid="10.5555/al.ap.visual.premedpl0009975">
 
+<param ve-plant-specimen jpid="10.5555/al.ap.visual.premedpl0009975">
 
 # References
 
