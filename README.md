@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Opium War"
-       author="Mojo"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg/800px-Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg" 
+       title="Test Peanut/Groundnut/Goober/Gouber/Pindar/Monkeynut"
+       author="Maria Job"
+       banner="https://commons.wikimedia.org/wiki/File:Arachis_hypogaea_006.JPG" 
        layout="vertical">
 (Chinese: 第一次鴉片戰爭; pinyin: Dìyīcì Yāpiàn Zhànzhēng), also known as the Opium War or the Anglo-Chinese War, was a series of military engagements fought between Britain and the Qing dynasty of China. The immediate issue was Chinese official seizure of opium stocks at Canton to stop the banned opium trade, and threatening the death penalty for future offenders. The British government insisted on the principles of free trade, equal diplomatic recognition among nations, and backed the merchants' demands. The British navy defeated the Chinese using technologically superior ships and weapons, and the British then imposed a treaty that granted territory to Britain and opened trade with China.
 <param ve-map>
