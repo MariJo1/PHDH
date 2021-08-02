@@ -1,0 +1,27 @@
+source	Binomial Name	source.label	target	target.label	edge
+	LEAF INSECTS				
+Q4774594	Anticarsia gemmatalis 	Velvetbean Caterpillar 	Q37383	Arachis Hypogaea	Insect feeds on Foliage 
+	Laphygma frugiperda	Fall armyworm	Q37383	Arachis Hypogaea	Insect feeds on Foliage 
+	Heliothis armigera (Hbn.)	Corn Earworm	Q37383	Arachis Hypogaea	Insect feeds on Foliage 
+	Empoasca fabae (Harr.)	Potato Leafhopper	Q37383	Arachis Hypogaea	Insect feeds on juices from the leaf
+	Empoasca facialis Jac.				
+	Empoasca solana DeLong				
+	Empoasca flavescens (F.)				
+	Frankliniella fusca (Hinds)	Tobacco Thrips	Q37383	Arachis Hypogaea	
+	F. tritici (Fitch)				
+	Heliothrips indicus				
+	Taeniothrips distalis Ky. 				
+	T. longistylus Ky.				
+					
+	SOIL INSECTS				
+	Pantomorus leucoloma (Boh.)	white fringed beetle	Q37383	Arachis Hypogaea	Insect larvae feed on the underground parts/adults feed on the foliage
+	Diabrotica duodecimpimctata (F)	southern corn rootworm	Q37383	Arachis Hypogaea	feeds on young peanut pods
+	D. balteata Lec	banded cucumber beetle	Q37383	Arachis Hypogaea	
+	Heteroderes sp.	wireworms	Q37383	Arachis Hypogaea	
+	Strigoderma arboricola (F.)	white grubs	Q37383	Arachis Hypogaea	
+	Elasmopalpus lignosellus (Zell.)	 lesser cornstalk borer	Q37383	Arachis Hypogaea	
+					
+	SOIL FUNGI				
+	Rhizoctonia				
+					
+	INSECTS ATTACKING IN STORAGE				
