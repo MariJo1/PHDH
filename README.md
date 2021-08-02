@@ -26,7 +26,7 @@ In the 18th century the demand for Chinese luxury goods (particularly silk, porc
 
 some random text here 
 <param ve-d3plus-ring-network
-       url="https://docs.google.com/spreadsheets/d/106pujLxtwe2r6PPLws00KgIUw8zOwqCdFFJTNgooEq0/edit#gid=0"                
+       url="https://raw.githubusercontent.com/MariJo1/PHDH/3cdc4dd7e1c183edfc431387930a9f9ed2e9fd7b/Multispecies.t1.tsv"                
        center="Arachis hypogaea">
 
 ## Image
